@@ -1,15 +1,7 @@
-# Post Occupancy 
-
-an interactive media studio
-
-environmental monitoring • audio engineering • interactive installations
+# environmental monitoring • audio engineering • interactive installations
 
 
-
-## Projects
-
-
-### Weather music
+## Weather music
 
 - “Weather Music” livestream - evolving composition based on live data from the Post Occupancy studio space (in progress)
 
@@ -27,7 +19,7 @@ environmental monitoring • audio engineering • interactive installations
 
 
 
-### Apartment observatory 
+## Apartment observatory 
 
 - Building-wide monitoring system aligned with BEPS standards (in progress) - March 2026
 
@@ -41,18 +33,18 @@ environmental monitoring • audio engineering • interactive installations
 
 
 
-### Capitol Hill Web 
+## Capitol Hill Web 
 
 - Headless git-based content management system with Astro.js front-end - August 2026
 
 
 
-### Livestream
+## Livestream
 
 - “Weather Music” - evolving composition based on live data from the Post Occupancy studio space
 
 
-### Recordings
+## Recordings
 
 - “Electric Sky” (8:26) - 24 hours in the life of the Skykomish Ballpark
 
