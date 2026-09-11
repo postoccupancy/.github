@@ -33,21 +33,3 @@
 
 
 
-## Capitol Hill Web 
-
-- Headless git-based content management system with Astro.js front-end - August 2026
-
-
-
-## Livestream
-
-- “Weather Music” - evolving composition based on live data from the Post Occupancy studio space
-
-
-## Recordings
-
-- “Electric Sky” (8:26) - 24 hours in the life of the Skykomish Ballpark
-
-- “Winter Becomes Spring” (6:14) - 6-month temperature/humidity sonification from Seattle apartment
-
-
