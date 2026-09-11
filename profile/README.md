@@ -1,4 +1,4 @@
-# environmental monitoring • audio engineering • interactive installations
+# Project log
 
 
 ## Weather music
