@@ -1,2 +1,3 @@
-# .github
-hello this is the readme
+# Post Occupancy
+
+This is the public readme
