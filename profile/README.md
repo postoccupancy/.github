@@ -1,4 +1,4 @@
-# Project log
+# Project blog
 
 
 ## Weather music
