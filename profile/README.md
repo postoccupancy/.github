@@ -1,4 +1,4 @@
-# Recent activity
+# Projects
 
 ## Weather music
 
