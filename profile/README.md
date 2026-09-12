@@ -3,7 +3,7 @@
 | Completed work |  |  |  |
 | :--- | :--- | :--- | :--- |
 | **Solar-powered outdoor weather station on ESP32**<br>_July 2026_ | [project]() | [demo]() | [code]() |
-| **Signal visualization and MIDI chord extractor**<br>_July 2026_ | [project]() | [demo]() | [code]() |
+| **Signal visualization and MIDI chord extraction**<br>_July 2026_ | [project]() | [demo]() | [code]() |
 | **Temperature sonification in Supercollider** <br>_June 2026_ | [project]() | [demo]() | [code]() |
 | **Moiré pattern generator in p5.js** <br>_June 2026_ | [project]() | [demo]() | [code]() |
 | **MIDI / OSC signal bus in Node.js on Raspberry Pi 3** <br>_May 2026_ | [project]() | [demo]() | [code]() |
