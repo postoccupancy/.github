@@ -1,37 +1,25 @@
 # Projects
 
-## Weather music
+## Sensing and data 
 
-| Completed work |  |  |  |
-| :--- | :--- | :--- | :--- |
-| **Electric Sky**<br>_Solar-powered outdoor weather station on ESP32 - July 2026_ | [project]() | [demo]() | [code]() |
-| **Resident Frequency**<br>_Extracting MIDI chords from live sensor data - July 2026_ | [project]() | [demo]() | [code]() |
-| **Electric Sea**<br>_MIDI / OSC signal bus in Node.js on Raspberry Pi 3 - June 2026_ | [project]() | [demo]() | [code]() |
-| **Moiré Patterns**<br>_MIDI-reactive interference patterns in p5.js - June 2026_ | [project]() | [demo]() | [code]() |
-| **Theremin**<br>_Ultrasonic distance sensor to Ableton Live - April 2026_ | [project]() | [demo]() | [code]() |
-| **Oscilloscope**<br>_Web visualizer for onboard mic - November 2025_ | [project]() | [demo]() | [code]() |
+| Project | Description | Source / interface |
+| --- | --- | --- |
+| **Resident Frequency (RF)** | A portable, self-contained local sensing and signal network that can operate without an Internet connection. Connects environmental sensors, audio inputs, signal-processing tools, and browser applications. | [Interface](https://rf.postoccupancy.com) |
+| **Electric Sea** | Raspberry Pi server for the RF network. Hosts the `rf-router` Node.js service for USB, OSC, PCM, WebSocket, and HTTP communication, alongside browser applications for signal visualization, voice analysis, microphone input, Moiré patterns, and recording. | [Code](https://github.com/postoccupancy/electric-sea) · [Interface](https://rf.postoccupancy.com) |
+| **Indoor Sky** | Indoor ESP32-S3 station with BME280 weather sensor and INMP441 microphone. Streams live 100Hz sensor data and 16kHz audio over USB to Electric Sea. | [Firmware](https://github.com/postoccupancy/indoor-sky) |
+| **Electric Sky** | Outdoor ESP32-S3 CAM sensing station with BME weather sensor, INMP441 microphone, and camera. Streams live 100Hz sensor data and 16kHz audio over WiFi to Electric Sea. | [Firmware](https://github.com/postoccupancy/electric-sky) |
+| **Weather Brain** | Windows-hosted Python/FastAPI and PostgreSQL backend for environmental archives, time-series analysis, spectral features, and LLM-assisted interpretation. | [Code](https://github.com/postoccupancy/weather-brain) |
 
-| In progress | 
-| :--- |
-| **Weather music livestream**<br>_Evolving composition based on live data from the Post Occupancy studio space._ |
+## Generative sound and visualization
 
-
-## Apartment observatory 
-
-| Completed work |  |  |  |
-| :--- | :--- | :--- | :--- |
-| **Agentic AI / RAG pipeline for live data sources**<br>_Cloud-hosted Python server and Postgres database with LLM queries via Ollama/Qwen - March 2026_ | [project]() | [demo]() | [code]() |
-| **React dashboard for indoor weather monitoring and event analysis**<br>_February 2026_ | [project]() | [demo]() | [code]() |
-| **Spectral transform of 6-month weather record**<br>_Visualization and sonification of persistent frequencies using FFT/CWT analysis - January 2026_ | [project]() | [demo]() | [code]() |
-| **Indoor weather station on ESP32**<br>_December 2025_ | [project]() | [demo]() | [code]() |
-
-| In progress | 
-| :--- |
-| **Building-wide monitoring system**<br>_Continuous observation of energy use and heating/cooling demand aligned with BEPS standards._ |
+| Project | Description | Source / interface |
+| --- | --- | --- |
+| **Weather Music** | An audiovisual performance and art installation that translates live environmental data into a generative evolving experience. | [audio composer](https://github.com/postoccupancy/weather-music) · [visual composer](https://postoccupancy.com/instruments/wave-interference) · [chord extractor](https://postoccupancy.com/instruments/resident-frequency) |
+| **DSP for Artists** | Interactive lessons and audiovisual instruments exploring harmonics, wave interference, spectral visualization, and live sensor-driven imagery using React, p5.js, and Web Audio. | [Workshop](https://postoccupancy.com/) · [Wave Interference](https://postoccupancy.com/instruments/wave-interference) |
 
 
-## Capitol Hill Web
+## Web and community platforms
 
-| In progress | 
-| :--- |
-| **Headless git-based content management system with Astro.js front-end**<br>_Aug-Sep 2026_ |
+**Post Occupancy Media website** — A Next.js/React/TypeScript workspace for project documentation, sensor dashboards, interactive lessons, and audiovisual applications. [Interface](https://postoccupancy.com) · [Code](https://github.com/postoccupancy/postoccupancy.com).
+
+**Capitol Hill Web** — Exploration of Git-based content management and community-oriented publishing tools. Development work in progress.
