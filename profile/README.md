@@ -20,6 +20,6 @@
 
 ## Web and community platforms
 
-**Post Occupancy Media website** — A Next.js/React/TypeScript workspace for project documentation, sensor dashboards, interactive lessons, and audiovisual applications. [Interface](https://postoccupancy.com) · [Code](https://github.com/postoccupancy/postoccupancy.com).
+[postoccupancy.com](https://postoccupancy.com) — A Next.js/React/TypeScript workspace for project documentation, sensor dashboards, interactive lessons, and audiovisual applications. [Code](https://github.com/postoccupancy/postoccupancy.com).
 
-**Capitol Hill Web** — Exploration of Git-based content management and community-oriented publishing tools. Development work in progress.
+[Capitol Hill Web](https://github.com/capitolhillweb) — Git-based content management and community-oriented publishing tools. 
