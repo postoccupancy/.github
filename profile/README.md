@@ -20,6 +20,6 @@
 
 ## Web and community platforms
 
-[postoccupancy](https://postoccupancy.com) — A Next.js/React/TypeScript app space for project documentation, sensor dashboards, interactive lessons, and audiovisual applications. [Code](https://github.com/postoccupancy/postoccupancy.com).
+[postoccupancy.com](https://postoccupancy.com) — A Next.js/React/TypeScript app space for project documentation, sensor dashboards, interactive lessons, and audiovisual applications. [Code](https://github.com/postoccupancy/postoccupancy.com).
 
 [capitolhillweb](https://github.com/capitolhillweb) — Git-based content management and community-oriented publishing tools. 
